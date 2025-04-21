@@ -1,0 +1,15 @@
+.env*
+
+node_modules
+
+# Next.js
+.next
+
+public/temp
+
+screenshots
+
+prd.md
+.cursorrrules
+# MacOS
+.DS_Store
